@@ -1,6 +1,6 @@
 # MMKG_MMT
 
-MMT enhanced by MMT
+MMT enhanced by MMKG
 
 Our implementation is based on [FairSeq](https://github.com/pytorch/fairseq.git).
 
