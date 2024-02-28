@@ -26,6 +26,9 @@ Download datasets from: [Multi30k](https://github.com/multi30k/dataset.git), [IK
 
 Our datasets are available at:
 
+Link：https://pan.quark.cn/s/3c801a00f349
+Password：aHrh
+
 ## Run code
 
 ```
