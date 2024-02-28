@@ -26,6 +26,8 @@ Our datasets are available at:
 
 ## Run code
 
-```sh run/baseline.sh```
+```
+sh run/baseline.sh
+```
 
 ** will be available soon!!**
