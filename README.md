@@ -1,7 +1,5 @@
 # Exploiting Multimodal Knowledge Graph for Multimodal Machine Translation
 
-MMT enhanced by MMKG
-
 Our implementation is based on [FairSeq](https://github.com/pytorch/fairseq.git).
 
 ## Setup conda environment
@@ -19,5 +17,7 @@ pip install -r requirements.txt
 ```
 
 ## Run code
+
+MMKG_MMT is plug-and-play, allowing easy integration into existing systems.
 
 ** will be available soon!!**
