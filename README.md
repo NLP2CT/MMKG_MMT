@@ -1,4 +1,4 @@
-# MMKG_MMT
+# Exploiting Multimodal Knowledge Graph for Multimodal Machine Translation
 
 MMT enhanced by MMKG
 
@@ -16,23 +16,8 @@ conda activate mmkg
 
 pip install -r requirements.txt
 
-mkdir checkpoints
-
-mkdir result
-
-mkdir datasets
 ```
-Download datasets from: [Multi30k](https://github.com/multi30k/dataset.git), [IKEA](https://github.com/zmykevin/A-Visual-Attention-Grounding-Neural-Model.git)
-
-Our datasets are available at:
-
-Link：https://pan.quark.cn/s/3c801a00f349
-Password：aHrh
 
 ## Run code
-
-```
-sh run/baseline.sh
-```
 
 ** will be available soon!!**
